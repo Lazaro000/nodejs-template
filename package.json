@@ -11,7 +11,6 @@
         "prepare": "husky install",
         "postinstall": "npm run prepare"
     },
-    "license": "MIT",
     "devDependencies": {
         "eslint": "8.16.0",
         "eslint-config-prettier": "8.5.0",
