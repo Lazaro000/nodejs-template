@@ -60,11 +60,6 @@ After creating the repository and cloning it locally
 npm i
 ```
 
-<!-- LICENSE -->
-
-## License
-
-Distributed under the MIT License. See `LICENSE.md` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -78,6 +73,4 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 [issues-shield]: https://img.shields.io/github/issues/learnthisacademy/nodejs-template.svg?style=for-the-badge
 [issues-url]: https://github.com/learnthisacademy/nodejs-template/issues
 [license-shield]: https://img.shields.io/github/license/learnthisacademy/nodejs-template.svg?style=for-the-badge
-[license-url]: https://github.com/learnthisacademy/nodejs-template/blob/main/LICENSE
-[learnthis-url]: http://learnthisacademy.com/
 [product-screenshot]: images/screenshot.png
