@@ -6,7 +6,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 <!-- <div align="center">
-  
+
   <a href="">[![Contributors][contributors-shield]][contributors-url]</a>
   <a href="">[![Forks][forks-shield]][forks-url]</a>
   <a href="">[![Stargazers][stars-shield]][stars-url]</a>
@@ -38,11 +38,11 @@ The objective of the project is to provide a base project with the minimum neces
 
 A number of tools have been added to improve the development experience and provide a good structure for any type of project.
 
--   [ESLint](https://eslint.org/) -> Statically analyzes your code to quickly find problems
--   [Standard.js](https://standardjs.com/) -> Configuration template for ESLint
--   [Prettier](https://prettier.io/) -> Opinionated code formatter
--   [Nodemon](https://www.npmjs.com/package/nodemon) -> Simple monitor script for use during development
--   [Lint-staged](https://www.npmjs.com/package/lint-staged) -> Runs linter and formatter before commits
+- [ESLint](https://eslint.org/) -> Statically analyzes your code to quickly find problems
+- [Standard.js](https://standardjs.com/) -> Configuration template for ESLint
+- [Prettier](https://prettier.io/) -> Opinionated code formatter
+- [Nodemon](https://www.npmjs.com/package/nodemon) -> Simple monitor script for use during development
+- [Lint-staged](https://www.npmjs.com/package/lint-staged) -> Runs linter and formatter before commits
 
 <!-- USAGE -->
 
@@ -59,7 +59,6 @@ After creating the repository and cloning it locally
 ```
 npm i
 ```
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
